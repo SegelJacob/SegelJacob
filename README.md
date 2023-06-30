@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/segel-jacob)
 
 - 👀 I’m interested in learning the in's and out's of the development world
-- 💡 Currently on PHP + Vue
+- 💡 Currently on Livewire!
 
 
 
