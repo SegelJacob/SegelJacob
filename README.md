@@ -1,6 +1,6 @@
 # <h1> Hi there, I'm Segel Mancuso! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h1> 
 
-[![Website](https://img.shields.io/badge/SegelJacob-000000?style=for-the-badge&logo=hyper&logoColor=white)](https://segeljacob.github.io)
+[![Website](https://img.shields.io/badge/SegelMancuso-000000?style=for-the-badge&logo=hyper&logoColor=white)](https://segeljacob.github.io)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/segel-jacob)
 
 - 👀 I’m interested in learning the in's and out's of the development world
