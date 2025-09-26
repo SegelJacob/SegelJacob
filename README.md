@@ -16,7 +16,6 @@
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
-  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain.svg">  
  </span>
  
